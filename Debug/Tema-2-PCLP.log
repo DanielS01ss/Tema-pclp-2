@@ -1,0 +1,6 @@
+﻿  Tema-2-PCLP.cpp
+C:\Users\stanc\Desktop\Tema-pclp-2\Tema-2-PCLP\House.cpp(16,9): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stanc\Desktop\Tema-pclp-2\Tema-2-PCLP\House.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stanc\Desktop\Tema-pclp-2\Tema-2-PCLP\House.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  The contents of <filesystem> are only available with C++17 or later.
+  Tema-2-PCLP.vcxproj -> C:\Users\stanc\Desktop\Tema-pclp-2\Tema-2-PCLP\Debug\Tema-2-PCLP.exe
